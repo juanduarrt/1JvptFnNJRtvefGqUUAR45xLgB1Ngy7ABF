@@ -27,14 +27,16 @@
         <ul>
 
             <li>
-                <a href="#" class="feat-btn">INICIO
+                <a href="#" class="feat-btn">MOVILIDAD
                 <span class="fas fa-caret-down first"></span>
             </a>
                 <ul class="feat-show">
                     
                     <li>
-<li><a href="servicios.html">HOGAR</a> </li>
-<li><a href="servicios.html">MOVILIDAD</a> </li></li>
+                    </ul>
+
+<li><a href="hogar.html">HOGAR</a> </li>
+
          <ul>           
              
 
@@ -77,7 +79,7 @@
         <!--fin del logo y menu-->
         <!--seccion home-->
         <section class="container" id="home">
-            <h1> "Trasmitiendo vibraciones para el alma"</h1>
+            <h1> "TIGO HOGAR Y MOVILIDAD" <h1>
             <div class="divider"></div>
 
     </div>
